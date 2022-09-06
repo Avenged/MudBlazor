@@ -1,5 +1,5 @@
 {
-  "cacheBootResources": true,
+  "cacheBootResources": false,
   "config": [ ],
   "debugBuild": false,
   "entryAssembly": "MudBlazor.Docs.Wasm",
@@ -28,8 +28,8 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-nx7ZxJmlvHCxf\/U54E\/CJiwKdTMclbj47Sh609EWjBM=",
       "Microsoft.Net.Http.Headers.dll": "sha256-P66ftDrXwc6ayND8uYzIk0CPQy1GjNZAPHx9RMhi3V4=",
       "MudBlazor.dll": "sha256-nw+NEarDvmHGv26dtAM6AEPP1WXkza9L5TPUG1Chpio=",
-      "MudBlazor.Docs.dll": "sha256-HYfDKEvJp5mivGuXVKDRBoMYWeqr0EdqRAg4+fpckSs=",
-      "MudBlazor.Docs.Wasm.dll": "sha256-krxHT6SHhqxuhe3kWUduT5l7xeYr+pyXuC1obUtXEBc=",
+      "MudBlazor.Docs.dll": "sha256-aOSAWvQ6mc4xGTPA4Xz0laJuXnjbjxbDtHsETmVu11A=",
+      "MudBlazor.Docs.Wasm.dll": "sha256-PqaFaKbaQ2RGRBSsh2hRP4aacfAxKCGNlnDuuTuJdS8=",
       "MudBlazor.Examples.Data.dll": "sha256-6e9zQJ2rkEyUbEF3s7mXMLNICStu4GnY\/NfsHIavj3U=",
       "netstandard.dll": "sha256-1ne5rv0tZ\/x9l5yVodo8AIuLhDbhE8GLYpBB7odVCqQ=",
       "System.Buffers.dll": "sha256-HHVdLkcHOWaD8Z9KSSteB4kIMVWAPlMPKj92929SGDo=",
